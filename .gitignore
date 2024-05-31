@@ -1,0 +1,2 @@
+# ignore yolov3.weights file (due to its big size)
+*.weights
